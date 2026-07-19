@@ -12,32 +12,32 @@ __Stable:__
 [Paket](https://github.com/joseluisq/paket)
 
 ```sh
-paket add joseluisq/gitnow@2.13.0
+paket add keksiqc/gitnow@2.13.1
 ```
 
 [Fisher](https://github.com/jorgebucaran/fisher)
 
 
 ```sh
-fisher install joseluisq/gitnow@2.13.0
+fisher install keksiqc/gitnow@2.13.1
 ```
 
 [Fundle](https://github.com/danhper/fundle)
 
 ```sh
-fundle plugin joseluisq/gitnow --url 'git@github.com:joseluisq/gitnow.git#tags/2.13.0'
+fundle plugin keksiqc/gitnow --url 'git@github.com:keksiqc/gitnow.git#tags/2.13.1'
 ```
 
 __Latest changes:__
 
 ```sh
-paket add joseluisq/gitnow
+paket add keksiqc/gitnow
 
 # Or
-fisher install joseluisq/gitnow
+fisher install keksiqc/gitnow
 
 # Or
-fundle plugin joseluisq/gitnow
+fundle plugin keksiqc/gitnow
 ```
 
 <small>_**Note:** Use that method if you don't want to wait for a new release._</small>
